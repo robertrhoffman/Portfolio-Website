@@ -2,17 +2,17 @@
 
 header {
   color: antiquewhite;
-  background-color: 1b263b;
+  background-color: navy;
   text-align: center;
 }
 
 body {
-  background-color: 778da9;
+  background-color: lightgray;
 }
 
 footer {
   color: antiquewhite;
-  background-color: 1b263b;
+  background-color: navy;
   height: 150px;
 }
 
