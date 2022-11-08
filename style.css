@@ -2,17 +2,17 @@
 
 header {
   color: antiquewhite;
-  background-color: navy;
+  background-color: 1b263b;
   text-align: center;
 }
 
 body {
-  background-color: lightgray;
+  background-color: 778da9;
 }
 
 footer {
   color: antiquewhite;
-  background-color: navy;
+  background-color: 1b263b;
   height: 150px;
 }
 
@@ -48,11 +48,19 @@ nav {
   color: antiquewhite;
 }
 
+a:link {
+  color:antiquewhite
+}
+
+a:visited {
+  color:black
+}
+
 /* image, goals */
 .image {
   float: right;
   padding: 15px;
-  height: 150px;
+  height: 200px
 }
 
 .goals {
